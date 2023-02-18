@@ -1,0 +1,134 @@
+.small-title {
+    display: inline-block;
+    font-size: .7rem;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    letter-spacing: 1px;
+    font-weight: 400;
+    color: #b5b9bf;
+}
+
+
+#about h2, #job h2 {
+    font-size: 2rem;
+    letter-spacing: 1px;
+    font-weight: 600;
+    line-height: 1.6;
+    color: hsl(218.94, 54.02%, 34.12%);
+    margin-bottom: 2rem;
+}
+
+#mission h2 {
+    text-align: center;
+    margin-bottom: 5rem;
+    color: hsl(218.94, 54.02%, 34.12%);
+}
+
+#mission article h3 {
+    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+    text-transform: capitalize;
+}
+
+#mission article {
+    background-color: #f8f8f8;
+    text-align: center;
+    padding: 3rem;
+}
+
+#mission .expertise {
+    border-top: .5px solid rgba(97, 103, 113, .15);
+    border-bottom: .5px solid rgba(97, 103, 113, .15);
+}
+
+#aim {
+    background: url(../../assets/kailua-kona-home-solar.jpg) no-repeat center;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+}
+
+#aim::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: hsla(218.94, 54.02%, 34.12%, .9); 
+    z-index: -1;
+}
+
+#about, #mission, #job, #aim {
+    padding: 3rem 0;
+}
+
+#aim .list-group-item{
+    margin: 1.5rem 0;
+    color: #fff;
+    background-color: transparent;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+#mission .expertise {
+    display: grid;
+    grid-auto-rows: auto;
+}
+
+#faq h5, #testimonials h5 {
+    letter-spacing: .7rem;
+    color: gray;
+}
+
+#testimonials .carousel-inner{
+    width: 70%;
+    margin: auto;
+}
+
+#testimonials .carousel-img {
+    max-height: 15rem;
+    margin-bottom: 1rem;
+}
+
+.carousel {
+    padding: 0 0 3rem;
+    min-height: 52vh;
+    display: flex;
+    align-items: center;
+}
+
+figure {
+    border: 3px solid rgba(97, 103, 113, .15);
+    display: flex;
+    flex-flow: column;
+}
+
+figure img {
+    object-fit: cover;
+    max-height: 13rem;
+}
+
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+
+/*Media Queries*/
+@media (max-width: 768px) {
+    #about, #mission, #job, #aim {
+        padding: 2rem 0;
+    }
+
+    #about h2, #job h2 {
+        font-size: 1.5rem;
+    }
+
+    #aim .list-group-item {
+        font-size: 1rem;
+        margin-bottom: 1rem;
+    }
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "why having an automated home is important",
+        "imgPath": "../../../assets/unsplash-image-ALpEkP29Eys.jpg",
+        "texts": [
+            "Having an integrated whole-house automation system offers quality-of-life benefits, including convenience, cost, and time savings.",
+            "Regardless of which setup you choose, you’ll enjoy the innovative features and advantages that are on the cutting edge of technology.",
+            "Regis Electric takes care of everything, from design, installation, testing and warranty."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "benefits of automating your home",
+        "imgPath": "../../../assets/home-automation-big-island.jpg",
+        "texts": [
+            "<strong>Managing all of your home devices in one place -</strong> All you’ll have to do is use that one app on your smartphone or tablet and you’ll be able to access the many connected devices and conveniences throughout your home.",
+            "<strong>Flexibility for new technology -</strong> As technology progresses, you can add newer devices to replace the older ones. We can support you by integrating these seamlessly into your homes, allowing you to keep upgrading to the latest trends.",
+            "<strong>Security -</strong> Incorporating security and surveillance features into your home network will skyrocket the safety of your residence. For example, you can connect motion detectors, automated door locks, and surveillance cameras, and set alerts to warn you of any problems. You can also monitor them in real time and watch what your pets are up to!",
+            "<strong>Better energy efficiency -</strong> Home automation allows you to control heating and cooling systems as well as other electrical options in your home, such as lighting and ceiling fans. You can conserve energy by automating these for different days and times.",
+            "<strong>Personal care insights -</strong> Through being able to monitor how often you watch TV, what type of food you keep in your refrigerator, and what meals you cook in the oven, you will be able to analyze your habits and easily make adjustments to live the healthy life you want."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "why choose us",
+        "imgPath": "../../../assets/smart+home+control.jpg",
+        "texts": [
+            "With over 12 years of experience in the field of residential automation installation, Regis Electric can cater to your needs. While whole-home automation systems can be difficult and complex to design and install, we have the necessary workforce and tools to complete your projects successfully and on time",
+            "At the tap of a finger, anywhere in the world, you can monitor and operate your home’s devices, checking your security and saving money on expensive energy bills.",
+            "We value customer satisfaction, and we are committed to ensuring your comfort."
+        ]
+    }
+]

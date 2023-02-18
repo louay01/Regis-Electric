@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "bring your ideas to life",
+        "texts": 
+        [
+            "It all begins with your idea. Considering an off-grid capable solar system? Want to add controlled home lighting?",
+
+            "Whatever you’re dreaming about, we can help bring your ideal home into a reality."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "quality installations",
+        "texts": 
+        [
+            "It can be intimidating to think of a significant investment in your home. We will always work with you to design the perfect system. ",
+
+            "Regis Electric is here to provide reliable information and quality installations."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "reliable and trusted",
+        "texts": 
+        [
+            "We’ve been installing solar and home automation systems in homes since 2010.",  
+                
+            "Our reputation as a reliable and trusted contractor is earned from decades on the job."
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "sensors",
+        "texts": 
+        [
+            "are used to measure and send information, they can monitor changes in daylight, motion, temperature, and many more.",
+
+            "You can adjust the settings according to your preferences."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "controllers",
+        "texts": 
+        [
+            "are devices like personal computers, tablets, or smartphones that receive or send messages or signals to your home automated system.",
+
+            "This is where programming comes into play, making your devices perform tasks at specific times.",
+            
+            "Controllers are user-friendly and require only a small learning curve to be a home automation master."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "actuators",
+        "texts": 
+        [
+            "manipulate the physical environment by operating switches and motors that control your home automation system.",  
+                
+            "In short, they turn electrical energy into motion and are usually activated by a remote command from a controller."
+        ]
+    }
+]

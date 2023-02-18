@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "how we save money with solar panels",
+        "imgPath": "../../../assets/roof.jpeg",
+        "texts": [
+            "We install a solar array system is installed on your roof which generates electricity from the sun. This power is consumed by your home and reduces your monthly electrical bills.",
+            "Going more into the scientific aspects, solar panels work by converting light energy into usable electricity, also known as the photovoltaic effect.",
+            "Solar panels save you money over decades and provide low-carbon, sustainable electricity.",
+            "Grid-tied solar systems are linked back to the electrical grid while off-grid ones utilize batteries that store solar energy as electricity for when you need it most.",
+            "To calculate exactly how many panels you will need, we recommend calling one of our expert electrical technicians at Regis Electric."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "what are solar batteries",
+        "imgPath": "../../../assets/batteries.jpeg",
+        "texts": [
+            "The primary function of solar batteries is to store energy produced by solar panels, allowing you to power up your home during nighttime or as a backup power source during an outage.",
+            "When you have a solar panel system without a solar battery, the excess power generated usually gets sent back to the grid. But with solar batteries, energy is stored, and you’ll only need to pay for the electricity used when your battery is depleted. This helps reduce costs in peak times when electricity typically costs more.",
+            "If you’re having trouble deciding which option to go for, Regis Electric can help provide advice on choosing what is best for your home.",
+            "We offer free estimates and design each system specifically for your roof."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "how long will my solar panels last",
+        "imgPath": "../../../assets/residential-solar-installations.png",
+        "texts": [
+            "Longevity varies on the model; however, a set of solar panels can last 30 years or longer. After the 3-decade intended lifespan, it doesn’t mean that your solar panels will stop producing electricity. It only means that the energy production has decreased to what most manufacturers would consider a viable amount for usage.",
+            "As long as solar panels aren’t physically damaged, they rarely break from within and will continue to work for decades, providing you with consistent energy from our sun. If there are any problems, you don’t need to worry; Regis Electric has a 25-year warranty on solar panels and microinverters and a 10-year warranty on inverters and batteries.",
+            "Once installed, we can work together to monitor how your power consumption and production are helping you lower your electricity expenses. ",
+            "We pride ourselves on our standards and guidelines, ensuring that each project is done correctly.",
+            "Call us today to help you enjoy the benefits of clean and renewable power."
+        ]
+    }
+]

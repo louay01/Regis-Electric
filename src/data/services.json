@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "title": "home solar installations",
+        "imgSrc": "../../assets/regis-electric.jpg",
+        "imgAlt": "Home Solar Installations",
+        "texts": 
+         [
+             "Your <strong>best</strong> option for power. Building a new home? We can work with your contractors to get a system installed alongside construction. Or if you have a home and want to add panels to your roof, we’ve got you covered.",
+ 
+             "We know power isn’t cheap on Big Island, let us help reduce those expensive bills with a system that will quickly pay for itself.",
+ 
+             "We have experience with large and small installs, adding to existing systems, and on and off-grid systems - this is where Regis Electric shines."         
+         ],
+        "btnText": "Learn more about solar installation",
+        "btnPath": "/services/residential/solar"
+    },
+    {
+        "id": 2,
+        "title": "home automation systems",
+        "imgSrc": "../../assets/regis-electric-automation-home.jpg",
+        "imgAlt": "Home Automation Systems",
+        "texts": 
+         [
+             "For homeowners who want to command their home whether they are from the touch of a few buttons.",
+ 
+             "Lutron systems allow you to control your lights, AC, shades, fans, gates, and more with your mobile device or tablet. Full home control no matter where you are in the world."
+         ],
+        "btnText": "Learn more about home automation",
+        "btnPath": "/services/residential/home-automation"
+    },
+    {
+        "id": 3,
+        "title": "electrical services",
+        "imgSrc": "../../assets/solar+battery.jpeg",
+        "imgAlt": "Electrical Services",
+        "texts": 
+         [
+             "Whether you’re looking for a contractor to bid for your new construction or remodel, or just looking to fix, add, or remove anything electrical from your home, you’re in safe hands.",
+ 
+             "We’ve worked on many different types of projects and we can handle it all.",
+ 
+             "Contact us today to see how we can help you."
+         ],
+        "btnText": "Learn more about electrical services",
+        "btnPath": "/services/residential"
+    }
+]
